@@ -1,0 +1,9 @@
+Hello sports journalist, this database program helps keep track of NHL stats for players, teams,
+games, stadiums, and sponsors that you may wish to look up. We have provided you with a menu
+that contain 6 different options for you to use. Enter numbers 1, 2, or 3 to retrieve information based
+on 3 queries that we have provided you with. Enter 4 to insert or 5 to remove an entity that is in a relationship
+with data that we have provided you with. Such entities include a player, team, stadium, or sponsor. When choosing
+either of these two options, you will be asked to enter a number for which entity you wish to use:
+enter 1 for a player, 2 for a team, 3 for a stadium, 4 for a sponsor, or 5 for a game.
+You will then be asked some additional information based on your choice.
+Enter 6 if you choose to quit the program at any time.
